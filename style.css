@@ -12,6 +12,19 @@ body {
     text-decoration: none;
     color: black;
   }
+
+ .image-row {
+   text-align: center;
+   padding: 20px;
+ }
+ .image-row img{
+   display: inline-block;
+   margin: 0 30px;
+   width: 200px;
+   height: 200px;
+ }
+
+  
   nav {
     text-align: center;
     padding: 15px;
